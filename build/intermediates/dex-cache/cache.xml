@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_f7f67b9c4abce8712cc7aa29429934c28b84d105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/simple-xml-2.7.1_f5c4e91fa9959f0e713c69732a1fd9f6ce7de385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/simple-xml-2.7.1_f5c4e91fa9959f0e713c69732a1fd9f6ce7de385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_70f8fc294b34623710b778294c2955d6a422f002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_f7f67b9c4abce8712cc7aa29429934c28b84d105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_417094bbd65ec65844d002aaa0b4fdb69612c779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_45d441484208d4a7d93b80381b8396bbb3f1cae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_dd641e783941e07cea86bd0b9baae4676d9290a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_70f8fc294b34623710b778294c2955d6a422f002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_7e96d9d65dd5226221fe87ac1e3012ee60cb1890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="4341f7f8e75f04be024f27b9699a696857e4466b">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a69882cce8eb8edc94abf7830fb4d1125b1fee1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_8f0a9f6aff9893fd3d739407f968cca826ffebe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b77d30cd6eb63323d61d68ed6aed4745ee113187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_7e96d9d65dd5226221fe87ac1e3012ee60cb1890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_8f0a9f6aff9893fd3d739407f968cca826ffebe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b77d30cd6eb63323d61d68ed6aed4745ee113187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_dd641e783941e07cea86bd0b9baae4676d9290a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02ee8733dae19737e4a7f0f1e8a0f6927a27281e">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a69882cce8eb8edc94abf7830fb4d1125b1fee1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_88d0de518f80154c3e83782608b934ab6f62ca61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_88d0de518f80154c3e83782608b934ab6f62ca61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="d53443536dbc3aa74549cf013147a24a09c36d30">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d74be0fa3fbf562a4443afee2814ac6657af2f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="be2313dcd987a46ef5e1b338b876995fde0c4887">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d74be0fa3fbf562a4443afee2814ac6657af2f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_417094bbd65ec65844d002aaa0b4fdb69612c779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_2271bc658bf68e06ecd511fc298d7fb3025e3a32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_45d441484208d4a7d93b80381b8396bbb3f1cae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_b982290cfa06f4416c758644befca76b80755131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0147d77ccfb3fdb1ae4308dc9097d03b469553f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_b982290cfa06f4416c758644befca76b80755131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0147d77ccfb3fdb1ae4308dc9097d03b469553f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kvenkat/krish/BART/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/kvenkat/krish/BART/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_2271bc658bf68e06ecd511fc298d7fb3025e3a32/classes.dex" />
+    </item>
+
+</items>
